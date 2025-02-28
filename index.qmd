@@ -12,9 +12,18 @@ about:
       href: https://github.com/eli-forest
 ---
 
-This is a Quarto website.
+Eli Wellman is a psychology student at California State University, Monterey Bay.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+
+California State University, Monterey Bay \| Seaside, CA\
+B.A. in Psychology \| Expected December 2026
+
+## Experience
+
+Guardian Scholars Program \| Peer Mentor \| August 2024 - present
+
+Health and Wellness Lab \| Student Researcher \| January 2025 - Present
 
 ```{r}
 1 + 1
