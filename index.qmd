@@ -24,7 +24,3 @@ B.A. in Psychology \| Expected December 2026
 Guardian Scholars Program \| Peer Mentor \| August 2024 - present
 
 Health and Wellness Lab \| Student Researcher \| January 2025 - Present
-
-```{r}
-1 + 1
-```
