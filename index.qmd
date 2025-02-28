@@ -1,5 +1,15 @@
 ---
-title: "Eli-Wellman-Portfolio"
+title: "Eli Wellman"
+about:
+  template: jolla
+  image: EliProfilePic.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/eli-forest-wellman
+    - icon: github
+      text: Github
+      href: https://github.com/eli-forest
 ---
 
 This is a Quarto website.
